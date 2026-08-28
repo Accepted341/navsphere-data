@@ -6,7 +6,23 @@
       "icon": "PlayCircle",
       "description": "测试",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1787912021667",
+          "title": "被牛来洗脑后，我怒肝《牛来》游戏大作！",
+          "href": "https://www.bilibili.com/video/BV1dTtc6eEdw/?spm_id_from=333.1365.list.card_archive.click&vd_source=d2fe0e151e054f3ab309b4d741c251c2",
+          "description": "使用最新发布的 GLM-5.3-Flash 牛来模型开发《牛来格斗》3D 游戏大作，有了视觉理解能力的 AI 有多强？Vibe Coding 开发游戏真的已经非常简单了~\n编程学习教程+实战项目+简历模板：codefather.cn\n免费 AI 编程教程：github.com/liyupi/ai-guide\n记得三连支持、关注鱼皮，让更多朋友学到知识哦~",
+          "icon": "/assets/cover/cover_1787912062734.jpg",
+          "enabled": true,
+          "videoConfig": {
+            "type": "bilibili",
+            "bvid": "BV1dTtc6eEdw",
+            "aid": "117172026219157",
+            "cid": "41355906731",
+            "p": 1
+          }
+        }
+      ],
       "subCategories": []
     }
   ]
