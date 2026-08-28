@@ -1,0 +1,13 @@
+{
+  "navigationItems": [
+    {
+      "id": "1787911983539",
+      "title": "测试",
+      "icon": "PlayCircle",
+      "description": "测试",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
+}
