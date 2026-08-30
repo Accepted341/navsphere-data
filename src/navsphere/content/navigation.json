@@ -15,6 +15,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cctv.com",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1788061188775_5g3genoic",
+          "title": "云顶大数据",
+          "href": "https://www.datatft.com/",
+          "description": "云顶之弈大数据，轻松查询阵容、英雄出装、装备、强化符文和对局数据，使用阵容模拟器构建专属阵容。",
+          "icon": "/assets/favicon_1788061166435.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
