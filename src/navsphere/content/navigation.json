@@ -33,6 +33,15 @@
           "icon": "/assets/favicon_1788061727750.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1788187328312_ecnsmlq3c",
+          "title": "Google",
+          "href": "https://www.google.com.hk/webhp?hl=zh-CN&sourceid=cnhp",
+          "description": "访问 www.google.com.hk",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.google.com.hk",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
